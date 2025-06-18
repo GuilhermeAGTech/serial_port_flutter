@@ -34,6 +34,6 @@ android {
     }
 }
 
-dependencies {
-    implementation 'com.github.licheedev.Android-SerialPort-API:serialport:1.0.0'
-}
+	dependencies {
+	        implementation 'com.github.licheedev:Android-SerialPort-API:1.0.1'
+	}
